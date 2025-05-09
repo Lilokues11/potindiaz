@@ -1,0 +1,36 @@
+[23:14:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:14:51] [ServerMain/INFO]: No existing world data, creating new world
+[23:14:52] [ServerMain/INFO]: Loaded 1337 recipes
+[23:14:52] [ServerMain/INFO]: Loaded 1448 advancements
+[23:14:52] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[23:14:52] [Server thread/INFO]: Loading properties
+[23:14:52] [Server thread/INFO]: Default game type: SURVIVAL
+[23:14:52] [Server thread/INFO]: Generating keypair
+[23:14:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:14:52] [Server thread/INFO]: Using epoll channel type
+[23:14:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:14:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:14:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:14:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:14:52] [Server thread/INFO]: Preparing level "world"
+[23:14:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:14:58] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[23:14:58] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[23:14:58] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[23:14:59] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:14:59] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[23:15:00] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[23:15:00] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[23:15:01] [Worker-Main-1/INFO]: Preparing spawn area: 20%
+[23:15:01] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[23:15:02] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[23:15:02] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[23:15:03] [Server thread/INFO]: Time elapsed: 5349 ms
+[23:15:03] [Server thread/INFO]: Done (10.803s)! For help, type "help"
+[23:15:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:15:03] [Server thread/INFO]: home/codespace/.python/current/bin/python3 /workspaces/potindiaz/msx.py<--[HERE]
+[23:15:19] [Server thread/INFO]: Lilokues[/127.216.102.17:49723] logged in with entity id 110 at (15.5, 72.0, 121.5)
+[23:15:19] [Server thread/INFO]: Lilokues joined the game
+[23:16:06] [Server thread/INFO]: Lilokues lost connection: Disconnected
+[23:16:06] [Server thread/INFO]: Lilokues left the game
+[23:17:06] [Server thread/INFO]: Server empty for 60 seconds, pausing
